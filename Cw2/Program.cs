@@ -18,7 +18,7 @@ class Program
     public static double avg(int[] tab)
     {
         int sum = 0;
-        foreach (int v in tab) sum += v;
+        foreach (int val in tab) sum += v;
         return (double)sum / tab.Length;
     }
 
