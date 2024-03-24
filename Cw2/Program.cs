@@ -7,5 +7,6 @@ class Program
         Console.WriteLine("Hello, World!");
         Console.WriteLine("It's me");
         Console.WriteLine("s27369");
+        Console.WriteLine(":D");
     }
 }
