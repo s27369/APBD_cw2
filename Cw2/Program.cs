@@ -20,4 +20,5 @@ class Program
         foreach (int v in tab) sum += v;
         return (double)sum / tab.Length;
     }
+    
 }
